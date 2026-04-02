@@ -21,8 +21,8 @@ Predict whether a molecule activates the Androgen Receptor (AR) using Machine Le
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ad99496-8d75-43cf-9256-76f32d675273" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8a429fd-4225-4106-805f-89160532597d" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc937032-93b0-4ff6-8599-9a3f2ba98943" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f4e750b2-daa0-48ee-bf2e-58c0462ecf4e" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a813e15e-490f-4f9d-8be3-3f7e24fb9edc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32f48660-64c3-4e5c-9dd0-ca49f9357ab0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e284cf26-897c-4680-9eee-b13df955bfc0" />
 
 
 
